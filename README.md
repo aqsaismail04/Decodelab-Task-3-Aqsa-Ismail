@@ -1,49 +1,37 @@
-🔐 Random Password Generator
+Random Password Generator
+Python
+DecodeLabs Project 3
+Batch 2026
+Description
 
-DecodeLabs Internship | Python Programming | Project 3
-Intern: Aqsa Ismail | Batch: 2026
+A simple command-line password generator built in Python. The user enters a length and the program generates a random password using letters, numbers, and symbols.
 
+Key skills
 
-📌 Description
+Importing Modules
+String Manipulation
+Modules used
 
-This is a simple command-line password generator built in Python.
-The user enters a length and the program generates a random password using letters, numbers, and symbols.
+random
 
-This project focuses on two key skills:
+Picks a random character each time
 
+string
 
-Importing Modules — using random and string
-String Manipulation — building a password character by character
+Provides ready-made character sets
 
+How to run
 
-
-🚀 How to Run
-
-python password_generator.py
-
-
-💻 Sample Output
+$ python password_generator.py
+Sample output
 
 Enter password length: 10
 Your password: aB3#kL9!mZ
+Connect with me
 
-
-🛠️ Modules Used
-
-ModulePurposerandomPicks a random character each timestringProvides ready-made character sets
-
-
-📂 What the Code Does
-
-
-Combines letters + digits + symbols into one big pool
-Asks the user how long the password should be
-Loops and picks one random character at a time
-Prints the final password
-
-
-
-👩‍💻 Author
-
+aqsaismail04
+aqsaismail04
+AI
 Aqsa Ismail
+
 DecodeLabs Python Internship — Batch 2026
